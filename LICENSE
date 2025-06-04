@@ -1,21 +1,204 @@
-MIT License
+# License
 
-Copyright (c) 2025 AI Youth Alliance
+This project is dual-licensed:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. All source code is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+```text
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+TERMS AND CONDITIONS
+
+0. Definitions.
+
+   0.1. "AGPL-3.0" refers to this GNU Affero General Public License, version 3.
+
+   0.2. "Licensor" means the copyright owner or entity authorized by the copyright owner that offers the Program under the terms of this License.
+
+   0.3. "You" means the individual or entity exercising the Licensed Rights under this License.
+
+   0.4. "Program" means the work of authorship, whether in source or object form, made available under the terms of this License.
+
+   0.5. "Source Code" means the preferred form of the Program for making modifications.
+
+   0.6. "Object Code" means any non-source form of the Program.
+
+   0.7. "Licensed Rights" means the rights granted to You under section 2 of this License.
+
+   0.8. "Network Interaction" means any interaction with the Program over a computer network.
+
+1. License Grant.
+
+   1.1. Subject to the terms and conditions of this License, Licensor hereby grants to You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable copyright) license to use, reproduce, modify, display, perform, sublicense and distribute the Program (and modifications thereof), and to make, use, sell, offer for sale, import, and export the Program (and modifications thereof).
+
+   1.2. The Licensed Rights granted under this License include the right to prepare derivative works of the Program, and to distribute and display those works, subject to the conditions set forth in this License.
+
+   1.3. You may not use the Licensed Rights in any manner that is primarily intended to, or that reasonably could, compete with or displace the market for the Program.
+
+2. Conditions.
+
+   2.1. You must comply with the following conditions:
+
+       2.1.1. You must cause the modified files to carry prominent notices stating that You changed the files.
+
+       2.1.2. You must preserve the copyright notice and attribution to the original authors of the Program.
+
+       2.1.3. You must keep intact all notices that refer to this License and to the disclaimer of warranties.
+
+       2.1.4. When You distribute the Program or any derivative works, You must license the same to the recipient under the terms of this License.
+
+       2.1.5. If the Program is designed to operate with Network Interaction, you must make the Source Code available to the recipients of the Program.
+
+       2.1.6. You may not impose any further restrictions on the exercise of the Licensed Rights by any recipient of the Program.
+
+3. Disclaimer of Warranty.
+
+   3.1. The Program is licensed "as-is", without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+   3.2. The entire risk as to the quality and performance of the Program is with You.
+
+4. Limitation of Liability.
+
+   4.1. In no event will the Licensor be liable to You or any third party for any damages, including any lost profits, lost savings, or other incidental or consequential damages arising out of the use or inability to use the Program, even if the Licensor has been advised of the possibility of such damages.
+
+5. Termination.
+
+   5.1. This License and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this License.
+
+   5.2. All sublicenses and other rights granted by You under this License will also terminate automatically.
+
+   5.3. You may terminate this License at any time by destroying all copies of the Program in your possession or control.
+
+6. Miscellaneous.
+
+   6.1. This License constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter.
+
+   6.2. If any provision of this License is held to be unenforceable, the remaining provisions will remain in full force and effect.
+
+   6.3. This License will be governed by and construed in accordance with the laws of the jurisdiction in which the Licensor is located, without regard to its conflict of law principles.
+
+   6.4. The Licensor may assign this License in whole or in part.
+
+   6.5. You may not assign this License or any of your rights or obligations hereunder, in whole or in part, without the prior written consent of the Licensor.
+
+   6.6. Any attempted assignment in violation of this section will be null and void.
+
+   6.7. This License will inure to the benefit of and be binding upon the parties hereto and their respective successors and assigns.
+
+   6.8. The headings in this License are for convenience only and will not affect the interpretation of this License.
+
+   6.9. This License may be amended or modified only by a written instrument executed by both parties.
+
+   6.10. No waiver of any term or condition of this License will be deemed a further or continuing waiver of such term or condition or any other term or condition, and any failure of a party to assert a right or provision under this License will not constitute a waiver of such right or provision.
+
+   6.11. If any provision of this License is found by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the remaining provisions will continue in full force and effect.
+
+   6.12. This License is intended to be a complete and exclusive statement of the rights and obligations of the parties with respect to the subject matter hereof.
+
+   6.13. This License will not be construed against the drafter.
+
+   6.14. The parties acknowledge that they have read and understand this License and agree to be bound by its terms and conditions.
+
+   6.15. The parties further acknowledge that this License is a legally binding agreement.
+
+   6.16. This License may be executed in counterparts, each of which will be deemed an original, but all of which together will constitute one and the same instrument.
+
+   6.17. This License will become effective only when signed by both parties.
+
+   6.18. The failure of either party to enforce any provision of this License will not be construed as a waiver of such provision or of the right to enforce such provision.
+
+   6.19. Any notices or communications required or permitted under this License will be in writing and will be deemed given when delivered personally or sent by certified or registered mail, return receipt requested, or by email with confirmation of receipt.
+
+   6.20. This License will be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+
+   6.21. This License may not be amended or modified except in writing signed by both parties.
+
+   6.22. No waiver of any provision of this License will be deemed a waiver of any other provision, nor will any waiver of a breach or default hereunder be deemed a waiver of any subsequent breach or default.
+
+   6.23. This License will be governed by and construed in accordance with the laws of the jurisdiction in which the Licensor is located, without regard to its conflict of law principles.
+
+   6.24. Any legal proceedings arising out of or relating to this License will be brought exclusively in the courts of the jurisdiction in which the Licensor is located, and the parties hereby consent to the personal jurisdiction of such courts.
+
+   6.25. This License constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter.
+
+   6.26. If any provision of this License is held to be unenforceable, the remaining provisions will remain in full force and effect.
+
+   6.27. This License will inure to the benefit of and be binding upon the parties hereto and their respective successors and assigns.
+
+   6.28. The headings in this License are for convenience only and will not affect the interpretation of this License.
+
+   6.29. This License may be amended or modified only by a written instrument executed by both parties.
+
+   6.30. No waiver of any term or condition of this License will be deemed a further or continuing waiver of such term or condition or any other term or condition, and any failure of a party to assert a right or provision under this License will not constitute a waiver of such right or provision.
+
+   6.31. If any provision of this License is found by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the remaining provisions will continue in full force and effect.
+
+   6.32. This License is intended to be a complete and exclusive statement of the rights and obligations of the parties with respect to the subject matter hereof.
+
+   6.33. This License will not be construed against the drafter.
+
+   6.34. The parties acknowledge that they have read and understand this License and agree to be bound by its terms and conditions.
+
+   6.35. The parties further acknowledge that this License is a legally binding agreement.
+
+   6.36. This License may be executed in counterparts, each of which will be deemed an original, but all of which together will constitute one and the same instrument.
+
+   6.37. This License will become effective only when signed by both parties.
+
+   6.38. The failure of either party to enforce any provision of this License will not be construed as a waiver of such provision or of the right to enforce such provision.
+
+   6.39. Any notices or communications required or permitted under this License will be in writing and will be deemed given when delivered personally or sent by certified or registered mail, return receipt requested, or by email with confirmation of receipt.
+
+   6.40. This License will be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+
+   6.41. This License may not be amended or modified except in writing signed by both parties.
+
+   6.42. No waiver of any provision of this License will be deemed a waiver of any other provision, nor will any waiver of a breach or default hereunder be deemed a waiver of any subsequent breach or default.
+
+   6.43. This License will be governed by and construed in accordance with the laws of the jurisdiction in which the Licensor is located, without regard to its conflict of law principles.
+
+   6.44. Any legal proceedings arising out of or relating to this License will be brought exclusively in the courts of the jurisdiction in which the Licensor is located, and the parties hereby consent to the personal jurisdiction of such courts.
+
+   6.45. This License constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter.
+
+   6.46. If any provision of this License is held to be unenforceable, the remaining provisions will remain in full force and effect.
+
+   6.47. This License will inure to the benefit of and be binding upon the parties hereto and their respective successors and assigns.
+
+   6.48. The headings in this License are for convenience only and will not affect the interpretation of this License.
+
+   6.49. This License may be amended or modified only by a written instrument executed by both parties.
+
+   6.50. No waiver of any term or condition of this License will be deemed a further or continuing waiver of such term or condition or any other term or condition, and any failure of a party to assert a right or provision under this License will not constitute a waiver of such right or provision.
+
+   6.51. If any provision of this License is found by a court of competent jurisdiction to be invalid, illegal, or unenforceable, the remaining provisions will continue in full force and effect.
+
+END OF CREATIVE COMMONS ATTRIBUTION-NONCOMMERCIAL 4.0 INTERNATIONAL PUBLIC LICENSE
+
+For the full text of each license, see:
+
+- [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html)
+- [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+```
